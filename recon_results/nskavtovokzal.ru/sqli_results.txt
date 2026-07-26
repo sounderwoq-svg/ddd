@@ -1,0 +1,1 @@
+No error-based SQLi found automatically

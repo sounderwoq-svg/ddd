@@ -1,0 +1,6 @@
+[MISSING] strict-transport-security
+[MISSING] content-security-policy
+[MISSING] x-frame-options
+[MISSING] x-content-type-options
+[MISSING] referrer-policy
+[MISSING] permissions-policy
