@@ -1,0 +1,12 @@
+www.nskavtovokzal.ru
+mail.nskavtovokzal.ru
+autodiscover.nskavtovokzal.ru
+pay.dev.nskavtovokzal.ru
+pay-test.nskavtovokzal.ru
+resources.nskavtovokzal.ru
+owa.nskavtovokzal.ru
+mail.smtp.nskavtovokzal.ru
+webmail.smtp.nskavtovokzal.ru
+dev.nskavtovokzal.ru
+smtp.nskavtovokzal.ru
+staging.nskavtovokzal.ru

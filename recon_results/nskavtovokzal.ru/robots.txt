@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /order/pay
+Disallow: /*?
+
+Host: https://nskavtovokzal.ru 
+Sitemap: https://nskavtovokzal.ru/sitemap.xml

